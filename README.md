@@ -1,2 +1,0 @@
-# pokedex-project
-React Tutorials
