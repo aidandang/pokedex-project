@@ -4,6 +4,10 @@
   flex-wrap: wrap;  
 }
 
-.Pokedex h1 {
-  text-align: center;
+.Pokedex-title-winner {
+  color: darkgreen;
+}
+
+.Pokedex-title-loser {
+  color: darkred;
 }
